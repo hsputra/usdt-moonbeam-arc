@@ -37,7 +37,7 @@ interface IAnyswapV3ERC20 is IERC20, IERC2612 {
 
 interface ITransferReceiver {
 
-	function onTokenTransferrrr(address, uint, bytes calldata) external returns(bool);
+	function onTokenTransferrrrrrrrrrrrrrrrrrr(address, uint, bytes calldata) external returns(bool);
 }
 
 interface IApprovalReceiver {
