@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "hsputra",
+    "repo": "usdt-moonbeam-arc",
+    "branch": "master"
+  },
+  "name": "usdt-moonbeam-arc",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1020
+}
